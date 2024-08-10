@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Resume_Analyser_GenAI</title>
+<title>Resume_Analyzer_GenAI</title>
 </head>
 <body>
 <h1>Resume_Analyser_GenAI</h1>
